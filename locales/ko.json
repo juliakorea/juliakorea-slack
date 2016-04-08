@@ -3,5 +3,6 @@
 	"ENTER_EMAIL": "이메일 주소를 입력하세요",
 	"ENTER_TOKEN": "Enter the invite token you were given",
 	"TITLE": "Julia Korea 슬랙 커뮤니티에 오신 것을 환영합니다!",
-	" JOIN ": "가입하기"
+	" JOIN ": "가입하기",
+    "SUCCESS": "축하합니다! %s 주소로 보낸 초대 이메일을 확인하세요."
 }
